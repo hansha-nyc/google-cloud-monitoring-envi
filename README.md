@@ -1,2 +1,2 @@
 # google-cloud-monitoring-envi
-Compute instance running prometheus 
+Compute instance running Prometheus 
